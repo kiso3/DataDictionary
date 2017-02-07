@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-dictnary>
+  <Mesto>
+    <naziv type="string" length="0" />
+    <ptt type="integer" />
+  </Mesto>
+  <Oglas>
+    <nazivOpstine type="string" length="0" />
+    <zaGodinu type="date" />
+    <licitacioniKorak type="integer" />
+    <maxPovZakupa type="integer" />
+    <nadmetanjeList ref="Nadmetanje" />
+    <sequence>
+      <nadmetanjeList ref="Nadmetanje" />
+    </sequence>
+  </Oglas>
+  <Nadmetanje>
+    <rb type="integer" />
+    <oznaka type="string" length="0" />
+    <pocetnaCena type="integer" />
+    <depozit type="integer" />
+    <povrsina type="integer" />
+    <oglasField ref="Oglas" />
+  </Nadmetanje>
+  <Ponudjac>
+    <emali type="string" length="0" />
+    <telefon type="string" length="0" />
+    <mestoField ref="Mesto" />
+    <ponudjacFizickoField ref="PonudjacFizicko" />
+    <ponudjacPravnoField ref="PonudjacPravno" />
+  </Ponudjac>
+  <PonudjacPravno>
+    <mb type="integer" />
+    <naziv type="string" length="0" />
+  </PonudjacPravno>
+  <PonudjacFizicko>
+    <jmbg type="integer" />
+    <ime type="string" length="0" />
+    <imeRoditelja type="string" length="0" />
+    <prezine type="string" length="0" />
+  </PonudjacFizicko>
+  <Prijava>
+    <datumPodnosenja type="date" />
+    <upoznatSaPonudom type="boolena" />
+    <datumObilak type="date" />
+    <nadmetanjeField ref="Nadmetanje" />
+    <prijavaFizickoField ref="PrijavaFizicko" />
+    <prijavaPravnoField ref="PrijavaPravno" />
+  </Prijava>
+  <PrijavaPravno>
+    <izvodIzPrivrednogReg type="boolena" />
+    <ponudjacPravnoField ref="PonudjacPravno" />
+  </PrijavaPravno>
+  <PrijavaFizicko>
+    <licnaKarta type="boolena" />
+    <dokazOgranicnomZemljistu type="boolena" />
+    <ponudjacFizickoField ref="PonudjacFizicko" />
+  </PrijavaFizicko>
+</data-dictnary>
+

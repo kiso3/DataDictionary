@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="DataDictionaryNew.Java2.Mesto" file="Mesto.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.Nadmetanje" file="Nadmetanje.java">
+    <classNode dependClassName="DataDictionaryNew.Java2.Oglas" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.Oglas" file="Oglas.java">
+    <classNode dependClassName="DataDictionaryNew.Java2.Nadmetanje" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.Ponudjac" file="Ponudjac.java">
+    <classNode dependClassName="DataDictionaryNew.Java2.Mesto" />
+    <classNode dependClassName="DataDictionaryNew.Java2.PonudjacFizicko" />
+    <classNode dependClassName="DataDictionaryNew.Java2.PonudjacPravno" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.LinkedList" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.PonudjacFizicko" file="PonudjacFizicko.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.PonudjacPravno" file="PonudjacPravno.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.Prijava" file="Prijava.java">
+    <classNode dependClassName="DataDictionaryNew.Java2.Nadmetanje" />
+    <classNode dependClassName="DataDictionaryNew.Java2.PrijavaFizicko" />
+    <classNode dependClassName="DataDictionaryNew.Java2.PrijavaPravno" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.LinkedList" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.PrijavaFizicko" file="PrijavaFizicko.java">
+    <classNode dependClassName="DataDictionaryNew.Java2.PonudjacFizicko" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java2.PrijavaPravno" file="PrijavaPravno.java">
+    <classNode dependClassName="DataDictionaryNew.Java2.PonudjacPravno" />
+  </dependency>
+</dependenciesRoot>
+

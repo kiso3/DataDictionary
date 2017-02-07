@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <root>
+    <file name="ActionAspectDescriptorImpl.java">
+      <unit at="13,0,36,0" name="DataDictonary.SQL.actions.ActionAspectDescriptorImpl" />
+    </file>
+    <file name="QueriesGenerated.java">
+      <unit at="6,0,8,0" name="DataDictonary.SQL.actions.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:1018f223-31fc-4123-bf7d-94938486660c(DataDictonary.SQL.actions)/9076313498053096899">
+    <file name="FKeyRepllace.java">
+      <node id="9076313498053096933" at="15,7,16,42" concept="4" />
+      <node id="9076313498053097013" at="17,182,18,312" concept="1" />
+      <node id="9076313498053113167" at="25,7,26,42" concept="4" />
+      <node id="9076313498053113291" at="27,182,28,312" concept="1" />
+      <node id="9076313498053096933" at="16,42,19,9" concept="2" />
+      <node id="9076313498053113167" at="26,42,29,9" concept="2" />
+      <node id="9076313498053096933" at="14,91,20,7" concept="0" />
+      <node id="9076313498053113167" at="24,91,30,7" concept="0" />
+      <node id="9076313498053096900" at="14,0,22,0" concept="3" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <node id="9076313498053096901" at="24,0,32,0" concept="3" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="9076313498053096935" at="17,182,18,312" />
+      <scope id="9076313498053113169" at="27,182,28,312" />
+      <scope id="9076313498053096933" at="15,7,19,9">
+        <var name="original" id="9076313498053096933" />
+      </scope>
+      <scope id="9076313498053113167" at="25,7,29,9">
+        <var name="original" id="9076313498053113167" />
+      </scope>
+      <scope id="9076313498053096900" at="14,91,20,7" />
+      <scope id="9076313498053096901" at="24,91,30,7" />
+      <scope id="9076313498053096900" at="14,0,22,0">
+        <var name="enclosingNode" id="9076313498053096900" />
+        <var name="model" id="9076313498053096900" />
+        <var name="newNode" id="9076313498053096900" />
+        <var name="sampleNode" id="9076313498053096900" />
+      </scope>
+      <scope id="9076313498053096901" at="24,0,32,0">
+        <var name="enclosingNode" id="9076313498053096901" />
+        <var name="model" id="9076313498053096901" />
+        <var name="newNode" id="9076313498053096901" />
+        <var name="sampleNode" id="9076313498053096901" />
+      </scope>
+      <unit id="9076313498053096900" at="13,0,23,0" name="DataDictonary.SQL.actions.FKeyRepllace$NodeFactory_9076313498053096900" />
+      <unit id="9076313498053096901" at="23,0,33,0" name="DataDictonary.SQL.actions.FKeyRepllace$NodeFactory_9076313498053096901" />
+      <unit id="9076313498053096899" at="12,0,34,0" name="DataDictonary.SQL.actions.FKeyRepllace" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="DataDictonary.SQL.behavior.Attribute_BehaviorDescriptor" file="Attribute_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.BaseRelation_BehaviorDescriptor" file="BaseRelation_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Catalog_BehaviorDescriptor" file="Catalog_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Check_BehaviorDescriptor" file="Check_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Constrain_BehaviorDescriptor" file="Constrain_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.DateTime_BehaviorDescriptor" file="DateTime_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Date_BehaviorDescriptor" file="Date_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Default_BehaviorDescriptor" file="Default_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Domen_BehaviorDescriptor" file="Domen_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.ForeignKey_BehaviorDescriptor" file="ForeignKey_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.ForeignKeysRef_BehaviorDescriptor" file="ForeignKeysRef_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.IndexRef_BehaviorDescriptor" file="IndexRef_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Index_BehaviorDescriptor" file="Index_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Integer_BehaviorDescriptor" file="Integer_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Key_BehaviorDescriptor" file="Key_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.KeysRef_BehaviorDescriptor" file="KeysRef_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Null_BehaviorDescriptor" file="Null_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.PredefineDomain_BehaviorDescriptor" file="PredefineDomain_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.PrimaryKey_BehaviorDescriptor" file="PrimaryKey_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Relation_BehaviorDescriptor" file="Relation_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Shema_BehaviorDescriptor" file="Shema_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictonary.SQL.behavior.Varchar_BehaviorDescriptor" file="Varchar_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+

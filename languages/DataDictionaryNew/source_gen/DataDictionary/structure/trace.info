@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="14,0,112,0" name="DataDictionary.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="20,0,258,0" name="DataDictionary.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

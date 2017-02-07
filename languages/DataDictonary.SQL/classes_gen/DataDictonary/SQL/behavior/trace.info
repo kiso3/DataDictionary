@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="Attribute_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Attribute_BehaviorDescriptor" />
+    </file>
+    <file name="BaseRelation_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.BaseRelation_BehaviorDescriptor" />
+    </file>
+    <file name="Catalog_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Catalog_BehaviorDescriptor" />
+    </file>
+    <file name="Check_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Check_BehaviorDescriptor" />
+    </file>
+    <file name="Constrain_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Constrain_BehaviorDescriptor" />
+    </file>
+    <file name="DateTime_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.DateTime_BehaviorDescriptor" />
+    </file>
+    <file name="Date_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Date_BehaviorDescriptor" />
+    </file>
+    <file name="Default_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Default_BehaviorDescriptor" />
+    </file>
+    <file name="Domen_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Domen_BehaviorDescriptor" />
+    </file>
+    <file name="ForeignKey_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.ForeignKey_BehaviorDescriptor" />
+    </file>
+    <file name="ForeignKeysRef_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.ForeignKeysRef_BehaviorDescriptor" />
+    </file>
+    <file name="IndexRef_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.IndexRef_BehaviorDescriptor" />
+    </file>
+    <file name="Index_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Index_BehaviorDescriptor" />
+    </file>
+    <file name="Integer_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Integer_BehaviorDescriptor" />
+    </file>
+    <file name="Key_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Key_BehaviorDescriptor" />
+    </file>
+    <file name="KeysRef_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.KeysRef_BehaviorDescriptor" />
+    </file>
+    <file name="Null_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Null_BehaviorDescriptor" />
+    </file>
+    <file name="PredefineDomain_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.PredefineDomain_BehaviorDescriptor" />
+    </file>
+    <file name="PrimaryKey_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.PrimaryKey_BehaviorDescriptor" />
+    </file>
+    <file name="Relation_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Relation_BehaviorDescriptor" />
+    </file>
+    <file name="Shema_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Shema_BehaviorDescriptor" />
+    </file>
+    <file name="Varchar_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDictonary.SQL.behavior.Varchar_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="DataDictonary.SQL.Language" file="Language.java">
+    <classNode dependClassName="DataDictonary.SQL.actions.ActionAspectDescriptorImpl" />
+    <classNode dependClassName="DataDictonary.SQL.constraints.ConstraintsAspectDescriptor" />
+    <classNode dependClassName="DataDictonary.SQL.editor.EditorAspectDescriptorImpl" />
+    <classNode dependClassName="DataDictonary.SQL.structure.ConceptPresentationAspectImpl" />
+    <classNode dependClassName="DataDictonary.SQL.structure.StructureAspectDescriptor" />
+    <classNode dependClassName="DataDictonary.SQL.textGen.TextGenAspectDescriptor" />
+    <classNode dependClassName="java.lang.Class" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.UUID" />
+    <classNode dependClassName="jetbrains.mps.openapi.actions.descriptor.ActionAspectDescriptor" />
+    <classNode dependClassName="jetbrains.mps.openapi.editor.descriptor.EditorAspectDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.adapter.ids.SLanguageId" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.ConceptPresentationAspect" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.ConstraintsAspectDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.ILanguageAspect" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.StructureAspectDescriptor" />
+    <classNode dependClassName="jetbrains.mps.text.rt.TextGenAspectDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.language.LanguageRuntime" />
+  </dependency>
+</dependenciesRoot>
+

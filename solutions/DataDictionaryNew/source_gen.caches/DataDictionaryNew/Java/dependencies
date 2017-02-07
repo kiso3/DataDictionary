@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="DataDictionaryNew.Java.IspitnaPrijava" file="IspitnaPrijava.java">
+    <classNode dependClassName="DataDictionaryNew.Java.Predmet" />
+    <classNode dependClassName="DataDictionaryNew.Java.Profesor" />
+    <classNode dependClassName="DataDictionaryNew.Java.Student" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Mesto" file="Mesto.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Predmet" file="Predmet.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Profesor" file="Profesor.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Racun" file="Racun.java">
+    <classNode dependClassName="DataDictionaryNew.Java.Stavka" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Radnik" file="Radnik.java">
+    <classNode dependClassName="DataDictionaryNew.Java.Mesto" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Stavka" file="Stavka.java">
+    <classNode dependClassName="DataDictionaryNew.Java.Racun" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.Java.Student" file="Student.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+
